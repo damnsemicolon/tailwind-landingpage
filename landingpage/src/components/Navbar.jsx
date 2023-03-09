@@ -9,7 +9,7 @@ const Navbar = () => {
     };
     return (
         // Navbar for screen larger or above
-        <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white">
+        <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-[#e7e7e7]">
             <h1 className="w-full text-3xl font-bold text-[#008adf]">Tailwind.</h1>
             <ul className="hidden md:flex">
                 <li className="p-4">Home</li>
