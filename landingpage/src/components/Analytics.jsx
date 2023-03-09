@@ -11,7 +11,7 @@ const Analytics = () => {
           <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt excepturi laudantium provident dolor blanditiis unde nisi quae possimus impedit laboriosam doloribus laborum rem sapiente voluptatum corporis quasi tenetur totam eos, ratione distinctio consectetur, enim alias saepe doloremque. Reiciendis ducimus impedit expedita consectetur ipsa at assumenda tenetur deserunt architecto, beatae earum.
           </p>
-          <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
+          <button className='bg-[#000700] text-[#008adf] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Get Started</button>
         </div>
       </div>
     </div>
