@@ -10,7 +10,7 @@ const Footer = () => {
     return(
         <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
             <div>
-                <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Tailwind.</h1>
+                <h1 className='w-full text-3xl font-bold text-[#008adf]'>Tailwind.</h1>
                 <p className='py-4'>This is an exercise to use tailwind in React. Initial thoughts: very easy to use, especially the flexibility in setting css for each item. Too bad it looks messy though.</p>
                 <div className='flex md:w-[75%] my-6 justify-between'>
                     <FaFacebookSquare size={30}/>
