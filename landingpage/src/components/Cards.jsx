@@ -22,7 +22,7 @@ const Cards = () => {
             <p className="py-2 border-b mx-8">1 Granted User</p>
             <p className="py-2 border-b mx-8">Send up to 2GB</p>
           </div>
-          <button className="bg-[#008adf] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
+          <button className="bg-[#008adf] hover:bg-sky-700 text-[#e7e7e7] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
           </button>
         </div>
@@ -41,7 +41,7 @@ const Cards = () => {
             <p className="py-2 border-b mx-8">1 Granted User</p>
             <p className="py-2 border-b mx-8">Send up to 2GB</p>
           </div>
-          <button className="bg-[#000700] text-[#008adf] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
+          <button className="bg-[#000700] hover:bg-gray-900 text-[#008adf] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
           </button>
         </div>
@@ -60,7 +60,7 @@ const Cards = () => {
             <p className="py-2 border-b mx-8">1 Granted User</p>
             <p className="py-2 border-b mx-8">Send up to 2GB</p>
           </div>
-          <button className="bg-[#008adf] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
+          <button className="bg-[#008adf] hover:bg-sky-700 text-[#e7e7e7] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3">
             Start Trial
           </button>
         </div>

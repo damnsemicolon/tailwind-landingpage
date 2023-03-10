@@ -19,7 +19,7 @@ const Hero = () => {
                     />
                 </div>
                 <p className='md:text-2xl text-xl font-bold text-gray-500 mx-10'>Monitor your data analytics to increase revenue for B2B, B2C, & SASS platforms.</p>
-                <button className='bg-[#008adf] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get Started</button>
+                <button className='bg-[#008adf] hover:bg-sky-700 text-[#e7e7e7] w-[200px] rounded-md font-medium my-6 mx-auto py-3'>Get Started</button>
             </div>
         </div>
     )
