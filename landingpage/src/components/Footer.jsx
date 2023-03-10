@@ -22,46 +22,47 @@ const Footer = () => {
             <div className='lg:col-span-2 flex justify-between mt-6'>
                 {/* Col 1 */}
                 <div>
-                    <h6 className='font-mediu, text-gray-400'>Solutions</h6>
+                    <h6 className='font-medium, text-gray-400'>Solutions</h6>
                     <ul>
-                        <li className='py-2 text-sm'>Analytics</li>
-                        <li className='py-2 text-sm'>Marketing</li>
-                        <li className='py-2 text-sm'>Commerce</li>
-                        <li className='py-2 text-sm'>Insights</li>
+                        <li className='py-2 text-sm'><a href="Analytics">Analytics</a></li>
+                        <li className='py-2 text-sm'><a href="Marketing">Marketing</a></li>
+                        <li className='py-2 text-sm'><a href="Commerce">Commerce</a></li>
+                        <li className='py-2 text-sm'><a href="Insights">Insights</a></li>
+
                     </ul>
                 </div>
 
                  {/* Col 2 */}
                  <div>
-                    <h6 className='font-mediu, text-gray-400'>Support</h6>
+                    <h6 className='font-medium, text-gray-400'>Support</h6>
                     <ul>
-                        <li className='py-2 text-sm'>Pricing</li>
-                        <li className='py-2 text-sm'>Documentation</li>
-                        <li className='py-2 text-sm'>Guides</li>
-                        <li className='py-2 text-sm'>API Status</li>
+
+                        <li className='py-2 text-sm'><a href="Pricing">Pricing</a></li>
+                        <li className='py-2 text-sm'><a href="Documentation">Documentation</a></li>
+                        <li className='py-2 text-sm'><a href="Guides">Guides</a></li>
+                        <li className='py-2 text-sm'><a href="API Status">Pricing</a></li>
                     </ul>
                 </div>
 
                  {/* Col 3 */}
                  <div>
-                    <h6 className='font-mediu, text-gray-400'>Company</h6>
+                    <h6 className='font-medium, text-gray-400'>Company</h6>
                     <ul>
-                        <li className='py-2 text-sm'>About</li>
-                        <li className='py-2 text-sm'>Blog</li>
-                        <li className='py-2 text-sm'>Careers</li>
-                        <li className='py-2 text-sm'>Jobs</li>
-                        <li className='py-2 text-sm'>Press</li>
+                        <li className='py-2 text-sm'><a href="About">About</a></li>
+                        <li className='py-2 text-sm'><a href="Blog">Blog</a></li>
+                        <li className='py-2 text-sm'><a href="Careers">Careers</a></li>
+                        <li className='py-2 text-sm'><a href="Press">Press</a></li>
+                        <li className='py-2 text-sm'><a href="Jobs">About</a></li>
                     </ul>
                 </div>
 
                  {/* Col 4 */}
                  <div>
-                    <h6 className='font-mediu, text-gray-400'>Legal</h6>
+                    <h6 className='font-medium, text-gray-400'>Legal</h6>
                     <ul>
-                        <li className='py-2 text-sm'>Claim</li>
-                        <li className='py-2 text-sm'>Policy</li>
-                        <li className='py-2 text-sm'>Terms</li>
-                        <li className='py-2 text-sm'>Privacy Policy</li>
+                        <li className='py-2 text-sm'><a href="Claim">Claim</a></li>
+                        <li className='py-2 text-sm'><a href="Terms">Terms</a></li>
+                        <li className='py-2 text-sm'><a href="Privacy Policy">Privacy Policy</a></li>
                     </ul>
                 </div>
 
